@@ -1,0 +1,13 @@
+__pycache__/
+.env
+*.pyc
+.DS_Store
+*.faiss
+*.pkl
+.vscode/
+*.ppt
+*.pptx
+*.docx
+*.pdf
+*.md
+AppData/
