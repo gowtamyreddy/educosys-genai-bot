@@ -28,5 +28,11 @@ flowchart TD
     E --> F[Answer in Streamlit]
 ```
 
+## 📸 Output Preview
+
+Here’s what the app looks like in action:
+
+![Educosys LLM Screenshot](https://github.com/gowtamyreddy/educosys-genai-bot/blob/8077be50e0fb2593f65801b12c22399c389ed0f3/screenshot.png?raw=true)
+
 
 
